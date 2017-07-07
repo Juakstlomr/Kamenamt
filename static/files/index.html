@@ -65,9 +65,10 @@
 		<script src="js/vendor/query-string.js"></script>
 		<script src="js/vendor/angular.min.js"></script>
 		<script src="js/vendor/moment.min.js"></script>
+        <script src="js/vendor/dirPagination.js"></script>
 		<script src="js/velox.js"></script>
 		<script>
-			window.app = window.angular.module('app', []);
+			window.app = window.angular.module('app', ['angularUtils.directives.dirPagination']);
 		</script>
 		<script src="js/config-controller.js"></script>
 		<script src="js/omni-controller.js"></script>

@@ -6,8 +6,14 @@
 
 <div ng-if="numDownloads() > 0" class="ui segment">
   <div class="ui list">
-    <div class="item" ng-repeat="node in state.Downloads.Children"
+<!--    <div class="item" ng-repeat="node in state.Downloads.Children"
         ng-controller="NodeController"
-        ng-include src="'template/download-tree.html'"></div>
+        ng-include src="'template/download-tree.html'"></div> -->
+    <div class="item" dir-paginate="node in state.Downloads.Children | itemsPerPage: 10">
+        <div ng-controller="NodeController" ng-include src="'template/download-tree.html'">
+        </div>
+    </div>
   </div>
 </div>
+
+<dir-pagination-controls></dir-pagination-controls>
