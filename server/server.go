@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jpillora/cloud-torrent/engine"
-	"github.com/jpillora/cloud-torrent/static"
+	"github.com/arturo-c/cloud-torrent/engine"
+	"github.com/arturo-c/cloud-torrent/static"
 	"github.com/jpillora/cookieauth"
 	"github.com/jpillora/gziphandler"
 	"github.com/jpillora/requestlog"
