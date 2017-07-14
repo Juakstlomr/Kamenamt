@@ -1,0 +1,240 @@
+{
+	"ImportPath": "github.com/Aithaks/Ckals",
+	"GoVersion": "go1.8.3",
+	"GodepVersion": "v104",
+	"Deps": [
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery"
+			
+		},
+		{
+			"ImportPath": "github.com/RoaringBitmap/roaring"
+		
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/bitmap"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/httptoo"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/inproc"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/itertools"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/orderedmap"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/perf"
+		
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/pproffd"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/prioritybitmap"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/pubsub"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/resource"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/missinggo/slices"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/sync"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/bencode"
+		
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/dht"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/dht/krpc"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/iplist"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/logonce"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/metainfo"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/mmap_span"
+		
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/mse"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/peer_protocol"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/storage"
+		
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/tracker"
+			
+		},
+		{
+			"ImportPath": "github.com/anacrolix/torrent/util"
+		},
+		{
+			"ImportPath": "github.com/anacrolix/utp"
+			
+		},
+		{
+			"ImportPath": "github.com/andrew-d/go-termutil"
+			
+		},
+		{
+			"ImportPath": "github.com/andybalholm/cascadia"
+			
+		},
+		{
+			"ImportPath": "github.com/boltdb/bolt"
+			
+		},
+		{
+			"ImportPath": "github.com/bradfitz/iter"
+			
+		},
+		{
+			"ImportPath": "github.com/dustin/go-humanize"
+			
+		},
+		{
+			"ImportPath": "github.com/edsrzf/mmap-go"
+			
+		},
+		{
+			"ImportPath": "github.com/elazarl/go-bindata-assetfs"
+			
+		},
+		{
+			"ImportPath": "github.com/google/btree"
+			
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket"
+			
+			
+		},
+		{
+			"ImportPath": "github.com/jpillora/ansi"
+		},
+		{
+			"ImportPath": "github.com/jpillora/backoff"
+			
+		},
+		{
+			"ImportPath": "github.com/jpillora/go-realtime"
+			
+		},
+		{
+			"ImportPath": "github.com/jpillora/opts"
+		
+		},
+		{
+			"ImportPath": "github.com/jpillora/requestlog"
+			
+		},
+		{
+			"ImportPath": "github.com/jpillora/scraper/scraper"
+		
+		},
+		{
+			"ImportPath": "github.com/jpillora/sizestr"
+		},
+		{
+			"ImportPath": "github.com/kardianos/osext"
+			
+		},
+		{
+			"ImportPath": "github.com/mattbaird/jsonpatch"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3"
+			
+		},
+		{
+			"ImportPath": "github.com/mschoch/smat"
+			
+		},
+		{
+			"ImportPath": "github.com/ryszard/goskiplist/skiplist"
+			
+		},
+		{
+			"ImportPath": "github.com/skratchdot/open-golang/open"
+			
+		},
+		{
+			"ImportPath": "github.com/tylertreat/BoomFilters"
+			
+		},
+		{
+			"ImportPath": "github.com/willf/bitset"
+		
+			
+		},
+		{
+			"ImportPath": "github.com/willf/bloom"
+		
+		},
+		{
+			"ImportPath": "golang.org/x/net/context"
+			
+		},
+		{
+			"ImportPath": "golang.org/x/net/html"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom"
+			
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix"
+			
+		},
+		{
+			"ImportPath": "golang.org/x/time/rate"
+		
+		}
+	]
+}
