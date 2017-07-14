@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/arturo-c/cloud-torrent/server"
+	"github.com/Juakstlomr/Kamenamt/server"
 	"github.com/jpillora/opts"
 )
 
